@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+h2{
+	container-width: 200px;
+	background-color: purple;
+	color: white;
+	font-size: 20px;
+	padding: 10px;
+	border-left: 5px green;
+
+}
