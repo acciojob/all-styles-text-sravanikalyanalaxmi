@@ -4,12 +4,14 @@ h2{
 	 border-left-style: solid;
   border-left-color: coral;
 	  text-decoration: underline;
-	container-width: 200px;
 	background-color: purple;
 	color: white;
 	font-size: 20px;
 	padding: 10px;
 	border-left-width:5px;
 	border-left-color:green;
-
+}
+div.h2 {
+  width: 200px;
+  
 }
